@@ -1,7 +1,12 @@
-sudo apt install -y git
-sudo apt install -y docker
+1. install chrome
+2. install VSC
+3. install Slack
 
-sudo apt install -y curl
+
+sudo apt install -y git
+apt install -y docker
+
+apt install -y curl
 curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
