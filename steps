@@ -28,10 +28,6 @@ sudo passwd
 sudo chmod 666 /var/run/docker.sock
 
 
-#Set new pw
-su -s ${USER}
-
-
 # SSH
 cd ~/.ssh
 ssh-keygen -t rsa -b 4096
