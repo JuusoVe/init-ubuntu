@@ -1,4 +1,7 @@
 2. install VSC
+Get rid of the emoji keys that override VSC Ctrl + .:
+https://unix.stackexchange.com/questions/692237/ctrl-displays-e-character-and-captures-the-keyboard-shortcut
+
 3. install Slack
 
 
